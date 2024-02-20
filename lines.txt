@@ -4,4 +4,4 @@ THIRD LINE
 fourth line
 I've put code into terminal
 One more line
-the last line in the local repository
+the last line I want
